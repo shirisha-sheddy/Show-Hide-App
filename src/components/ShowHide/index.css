@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container {
+  display: flex;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.btn {
+  color: #dd1264;
+  font-family: 'Roboto';
+  font-size: 15px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  height: 35px;
+  width: 180px;
+  margin: 80px;
+}
+
+.name {
+  text-align: center;
+  background-color: #fddddb;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  border-radius: 12px;
+  padding: 20px;
+  color: black;
+}
